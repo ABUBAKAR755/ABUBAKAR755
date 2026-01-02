@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi 👋 I'm Muhammad Abubakar<br><br>🚀 AI / Machine Learning Engineer | Python Developer | AI Automation Enthusiast  <br><br>I’m a Computer Science graduate passionate about building **intelligent, scalable, and real-world AI systems**.  <br>I enjoy working on **Machine Learning, Deep Learning, NLP, Computer Vision**, and **AI-powered automation solutions**.<br><br>---<br><br>## 🧠 About Me<br><br>- 🎓 BS in Computer Science  <br>- 🤖 Focused on **AI, ML, Deep Learning & LLM-based systems**<br>- 🛠️ Strong in **Python** and AI frameworks<br>- 📈 Love building **end-to-end projects** (data → model → deployment)<br>- 🌱 Always learning and improving my skills<br><br>---<br><br>## 🛠️ Tech Stack & Skills<br><br>**Programming**<br>- Python, C/C++, SQL<br><br>**Machine Learning & Deep Learning**<br>- Scikit-learn, TensorFlow, PyTorch, Keras<br>- CNNs, Transfer Learning, Model Optimization<br><br>**AI & LLMs**<br>- LangChain, LangGraph<br>- GPT, Transformers, Hugging Face<br>- RAG (Retrieval Augmented Generation)<br><br>**Computer Vision & NLP**<br>- OpenCV, YOLO<br>- NLP Pipelines, Text Classification, OCR<br><br>**Web & Deployment**<br>- FastAPI, Flask<br>- REST APIs<br>- Docker, Git, GitHub<br><br>---<br><br>## 🚀 Projects<br><br>Some of the projects I’ve worked on:<br><br>- 🔹 **Customer Churn Prediction**<br>- 🔹 **Plant Disease Classification (Deep Learning)**<br>- 🔹 **Multilingual OCR with Text-to-Speech**<br>- 🔹 **Voice-Based AI Coding Assistant**<br>- 🔹 **Smart Attendance System using Face Recognition**<br>- 🔹 **AI Voice Cloning & Text-to-Speech System**<br><br>➡️ Check my repositories to see detailed implementations.<br><br>---<br><br>## 📚 Currently Learning<br><br>- Advanced Deep Learning<br>- LLM-based Applications<br>- AI Agents & Automation<br>- Model Deployment & MLOps<br><br>---<br><br>## 📫 Connect With Me<br><br>- 💼 LinkedIn: [linkedin.com/in/abubakar755](https://linkedin.com/in/abubakar755)<br>- 🐙 GitHub: [github.com/ABUBAKAR755](https://github.com/ABUBAKAR755)<br>- 📧 Email: m.abubakar.ai.dev@gmail.com<br><br>---<br><br>⭐ **If you like my work, consider starring my repositories!**<br>
 
-<!--
-**ABUBAKAR755/ABUBAKAR755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-abubakar-59377826b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Abubakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.abubaakar755@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ABUBAKAR755&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ABUBAKAR755&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABUBAKAR755&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=ABUBAKAR755&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
