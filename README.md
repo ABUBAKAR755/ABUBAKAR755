@@ -1,6 +1,8 @@
 # Muhammad Abubakar
 ## AI Engineer | LLM Agents, RAG and Python Systems
 
+🌐 **Portfolio:** https://abubakar755.github.io/Muhammad_Abubakar_Portfolio/
+
 I build production-oriented AI applications, agentic workflows and data pipelines with LangGraph, LangChain, FastAPI and Docker.
 
 Currently, I work at **SAT Software House (PSEB)**, engineering data scraping and processing pipelines across 10+ government departments. Previously, at **ProspectROI AI**, I developed autonomous sales-agent workflows for lead qualification and outbound automation.
@@ -28,6 +30,7 @@ Currently, I work at **SAT Software House (PSEB)**, engineering data scraping an
 - [**Movies Data Analysis**](https://github.com/ABUBAKAR755/movies-data-project) — EDA on 9,800+ records: genre trends and rating distributions. Stack: Pandas, Seaborn, Matplotlib.
 
 ### Contact
+- Portfolio: https://abubakar755.github.io/Muhammad_Abubakar_Portfolio/
 - LinkedIn: https://www.linkedin.com/in/abubakar755/
 - Email: m.abubaakar755@gmail.com
 - Open to: AI Engineer, LLM Engineer, Generative AI Engineer, Backend Engineer roles — remote and UAE-based.
